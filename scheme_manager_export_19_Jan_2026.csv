@@ -1,0 +1,8 @@
+CUSTOMERS DATA
+Account No,Name,Phone,Created At
+2,"Sajjad","7845922005","2026-01-19T13:32:27.134143+00:00"
+
+
+PAYMENTS DATA
+Account No,Customer Name,Amount,Payment Date,Payment Method,Receipt Number,Remarks
+2,"Sajjad",1000,"2026-01-19","UPI","",""
